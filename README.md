@@ -1,1 +1,1 @@
-# Pseuido-random-number-generation-
+# Pseuido-random-number-generation(PRNG)with python
